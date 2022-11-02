@@ -2,11 +2,9 @@
 
 This is Furkan. 
 
-✨ You may not find some impressive work here yet. 🚧 UNDER MAINTENANCE 🛠
 
 🎓 Software Engineering Student
 
-🌱 Currently learning Python
 
 📫 furkanvelimart@gmail.com
 
